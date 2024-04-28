@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647620631940",
+    "project_id": "bookishbuzz-9b354",
+    "storage_bucket": "bookishbuzz-9b354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647620631940:android:be804dcc55f50eef2b11d1",
+        "android_client_info": {
+          "package_name": "com.example.bookishbuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANowp3qGIwxsRvz1ji9ckmn3Iz6PRGOC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
